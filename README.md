@@ -17,8 +17,8 @@ The project uses the **GLFW** library for window/context creation and input, and
 
 ## 🧱 Dependencies
 
-- [GLFW 3.4](https://www.glfw.org/download.html) (you are using `glfw-3.4.bin.WIN64`)
-- [GLEW 2.1.0](http://glew.sourceforge.net/) (you are using `glew32` prebuilt for MinGW)
+- [GLFW 3.4](https://www.glfw.org/download.html) 
+- [GLEW 2.1.0](http://glew.sourceforge.net/)
 - OpenGL (provided via Windows SDK)
 
 ---
